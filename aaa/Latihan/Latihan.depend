@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1669188161 source:c:\kuliah tel u\c++\latihan\latihan.cpp
+	"Latihan.h"
+
+1669186508 c:\kuliah tel u\c++\latihan\latihan.h
+	<iostream>
+
+1669186197 source:c:\kuliah tel u\c++\latihan\main.cpp
+	"Latihan.h"
+
